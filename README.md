@@ -1,18 +1,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 	![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# ![image](https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/b50820fb-9048-410f-a09b-98ff8d3f965b) Tamara
+# ![image](https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/02e22bbc-3187-4fad-860e-c8db1c055aec) Tamara
 ## 새싹톤 Team: 타마라 Back-End
 ## 사용 기능
 - Spring Boot
 
-  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/e6dc898d-8b1d-4f43-ad0d-b4dba7b96bbc" width="50%"/>
+  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/66de4110-9823-420e-877b-ad2f91e43fe8" width="50%"/>
 
 - AWS
 
-  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/8c8a293c-9845-4f1c-a172-710239b25df7" width="50%"/>
+  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/7d68e1ad-ad07-4bc0-938a-7cdeb29220b3" width="50%"/>
 
 - Redis
 
-  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/f509a7c9-015d-407a-927d-0476faeba4d9" width="50%"/>
+  <img src="https://github.com/Tamara-sesacthon/tamara-back/assets/55172514/f9339aaa-9e52-4419-9e15-fe71b950cd78" width="50%"/>
 
 
 <br>
